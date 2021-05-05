@@ -33,7 +33,7 @@ to install packages
 
 Then run 
 ```py 
-index.py // or python3 index.py on linux
+py index.py // or python3 index.py on linux
 ```
 to get the bot running!
 
