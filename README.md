@@ -1,10 +1,6 @@
-<h1 align="center">Welcome to RapiDB 👋</h1>
+<h1 align="center">Welcome to Discord.PY Template 👋</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-0.2.5-blue.svg?cacheSeconds=2592000" />
-  <a href="https://rapidb.readthedocs.io" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
-  </a>
-  <a href="https://github.com/Rapi-Dev/RapiDB/blob/main/LICENSE" target="_blank">
+  <a href="https//github.com/Rapi-Dev/RapiDB/blob/main/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
   <a href="https://discord.gg/4haKeuFn" target="_blank">
@@ -23,8 +19,24 @@
 ## Install
 
 ```sh
-pip install rapidb
+git clone git@github.com:Rapi-Dev/discordpy-template.git
 ```
+
+## How to start the bot?
+
+Configure it in [cnf.json](https://github.com/Rapi-Dev/discordpy-template/blob/main/cnf.json)
+
+Run
+```sh
+pip install discord
+``` 
+to install packages
+
+Then run 
+```py 
+index.py // or python3 index.py on linux
+```
+to get the bot running!
 
 ## Author
 
