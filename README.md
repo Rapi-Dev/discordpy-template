@@ -8,7 +8,6 @@
   </a>
 </p>
 
-> Get your python database journey started easy with no SQL experience using RapiDB.
 
 ### 🏠 [Homepage](https://github.com/Rapi-Dev/discordpy-template)
 
@@ -47,7 +46,7 @@ to get the bot running!
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Rapi-Dev/RapiDB/issues). 
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Rapi-Dev/discordpy-template/issues). 
 
 ## Show your support
 
